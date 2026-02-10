@@ -50,4 +50,3 @@ Lab 9: Stereo FM Receiver
 
 -- The culmination of modulation theory into a fully functional stereo broadcast receiver.
 
-    Key Tasks: Implementing pre-emphasis/de-emphasis for SNR improvement, decoding L+R (mono) and L-R (stereo subcarrier) signals, and isolating the 19 kHz pilot tone for coherent DSB-SC demodulation of the stereo channel.
